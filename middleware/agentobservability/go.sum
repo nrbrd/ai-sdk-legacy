@@ -25,14 +25,14 @@ github.com/grafana/agento11y/go v0.15.0 h1:yWNZvllDOqvcHa6BVxeFwD7rOgIb562fc3pI2
 github.com/grafana/agento11y/go v0.15.0/go.mod h1:kxDQgYKoDFfU+FtrHlpF/qNioSxNu+nr2dEsIzUuXcw=
 github.com/grafana/agento11y/go-providers/anthropic v0.15.0 h1:F4BhVIVYdengedmLGokkQIoK/GAEsvCRhqK/OI3NlYY=
 github.com/grafana/agento11y/go-providers/anthropic v0.15.0/go.mod h1:uzje3KC0oKWrJcSqGKSAbafvoxRVQd3xibUBoSdU79w=
-github.com/grafana/ai-sdk v0.1.0-alpha.1 h1:axVygbfzOxHFzfS8ZkQcNMGlAiFbD8NgOGsc53lVdUg=
-github.com/grafana/ai-sdk v0.1.0-alpha.1/go.mod h1:QlLzp9rjN8RWRjUSw9UxVs5/xFEY9lsRK4S1ftVYeiA=
 github.com/invopop/jsonschema v0.14.0 h1:MHQqLhvpNUZfw+hM3AZDYK7jxO8FZoQeQM77g8iyZjg=
 github.com/invopop/jsonschema v0.14.0/go.mod h1:ygm6C2EaVNMBDPpaPlnOA2pFAxBnxGjFlMZABxm9n2I=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
 github.com/kr/pretty v0.3.1/go.mod h1:hoEshYVHaxMs3cyo3Yncou5ZscifuDolrwPKZanG3xk=
 github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
 github.com/kr/text v0.2.0/go.mod h1:eLer722TekiGuMkidMxC/pM04lWEeraHUUmBw8l2grE=
+github.com/nrbrd/ai-sdk-legacy v0.0.0-20261001134251-c18a331aee43 h1:I3DxrbBhz0XOrsDXrNkXIjAEUI5oK3Uxx7hSijt+pMM=
+github.com/nrbrd/ai-sdk-legacy v0.0.0-20261001134251-c18a331aee43/go.mod h1:tkjT18sLa03bBi3x7ZdRZIsxGskZV2BNG5cqdYfZn9w=
 github.com/pb33f/ordered-map/v2 v2.3.1 h1:5319HDO0aw4DA4gzi+zv4FXU9UlSs3xGZ40wcP1nBjY=
 github.com/pb33f/ordered-map/v2 v2.3.1/go.mod h1:qxFQgd0PkVUtOMCkTapqotNgzRhMPL7VvaHKbd1HnmQ=
 github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 h1:Jamvg5psRIccs7FGNTlIRMkT8wgtp5eCXdBlqhYGL6U=

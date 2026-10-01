@@ -14,7 +14,7 @@ replace (
 require (
 	github.com/anthropics/anthropic-sdk-go v1.61.0
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.32
-	github.com/nrbrd/ai-sdk-legacy v0.0.0
+	github.com/nrbrd/ai-sdk-legacy v0.0.0-20261001134251-c18a331aee43
 	github.com/nrbrd/ai-sdk-legacy/providers/anthropic v0.0.0
 	github.com/nrbrd/ai-sdk-legacy/providers/bedrock v0.0.0
 	github.com/nrbrd/ai-sdk-legacy/providers/grafana v0.0.0

@@ -3,7 +3,7 @@ module github.com/nrbrd/ai-sdk-legacy/providers/openai
 go 1.26.3
 
 require (
-	github.com/nrbrd/ai-sdk-legacy v0.0.0
+	github.com/nrbrd/ai-sdk-legacy v0.0.0-20261001134251-c18a331aee43
 	github.com/openai/openai-go/v3 v3.48.0
 	github.com/stretchr/testify v1.11.1
 )

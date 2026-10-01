@@ -6,7 +6,7 @@ require (
 	github.com/anthropics/anthropic-sdk-go v1.61.0
 	github.com/grafana/agento11y/go v0.15.0
 	github.com/grafana/agento11y/go-providers/anthropic v0.15.0
-	github.com/nrbrd/ai-sdk-legacy v0.0.0
+	github.com/nrbrd/ai-sdk-legacy v0.0.0-20261001134251-c18a331aee43
 	github.com/stretchr/testify v1.11.1
 	go.opentelemetry.io/otel v1.44.0
 	go.opentelemetry.io/otel/sdk v1.44.0

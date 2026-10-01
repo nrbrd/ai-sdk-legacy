@@ -3,7 +3,7 @@ module github.com/nrbrd/ai-sdk-legacy/middleware/prometheus
 go 1.26.3
 
 require (
-	github.com/nrbrd/ai-sdk-legacy v0.0.0
+	github.com/nrbrd/ai-sdk-legacy v0.0.0-20261001134251-c18a331aee43
 	github.com/prometheus/client_golang v1.24.1
 	github.com/prometheus/client_model v0.6.2
 	github.com/stretchr/testify v1.11.1

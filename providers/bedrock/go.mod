@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.43.2
 	github.com/aws/aws-sdk-go-v2/config v1.32.33
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.32
-	github.com/nrbrd/ai-sdk-legacy v0.0.0
+	github.com/nrbrd/ai-sdk-legacy v0.0.0-20261001134251-c18a331aee43
 	github.com/nrbrd/ai-sdk-legacy/providers/openai v0.0.0
 	github.com/openai/openai-go/v3 v3.48.0
 	github.com/stretchr/testify v1.11.1

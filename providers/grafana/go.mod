@@ -4,7 +4,7 @@ go 1.26.3
 
 require (
 	github.com/grafana/authlib v0.0.0-20260814184937-0d62418c2815
-	github.com/nrbrd/ai-sdk-legacy v0.0.0
+	github.com/nrbrd/ai-sdk-legacy v0.0.0-20261001134251-c18a331aee43
 	github.com/stretchr/testify v1.11.1
 )
 
