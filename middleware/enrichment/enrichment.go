@@ -3,8 +3,8 @@ package enrichment
 import (
 	"context"
 
-	"github.com/grafana/ai-sdk/middleware"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/middleware"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // Middleware returns middleware that enriches provider call headers and provider options.

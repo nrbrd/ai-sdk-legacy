@@ -5,8 +5,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/grafana/ai-sdk/fallback"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/fallback"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

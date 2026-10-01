@@ -1,8 +1,8 @@
 package bedrock
 
 import (
-	"github.com/grafana/ai-sdk/provider"
-	"github.com/grafana/ai-sdk/registry"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	"github.com/nrbrd/ai-sdk-legacy/registry"
 )
 
 // Provider is a registry.Provider that constructs Bedrock language models

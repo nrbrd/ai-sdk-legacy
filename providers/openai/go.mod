@@ -1,9 +1,9 @@
-module github.com/grafana/ai-sdk/providers/openai
+module github.com/nrbrd/ai-sdk-legacy/providers/openai
 
 go 1.26.3
 
 require (
-	github.com/grafana/ai-sdk v0.1.0-alpha.1.0.20260825181821-1f7f7ef4a4c8
+	github.com/nrbrd/ai-sdk-legacy v0.0.0
 	github.com/openai/openai-go/v3 v3.48.0
 	github.com/stretchr/testify v1.11.1
 )

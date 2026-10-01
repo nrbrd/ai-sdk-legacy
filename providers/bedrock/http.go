@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // encodeModelIDPathSegment percent-encodes a Bedrock model ID for use in the

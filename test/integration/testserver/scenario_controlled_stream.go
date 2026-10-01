@@ -6,8 +6,8 @@ import (
 	"regexp"
 	"time"
 
-	aisdk "github.com/grafana/ai-sdk"
-	"github.com/grafana/ai-sdk/provider"
+	aisdk "github.com/nrbrd/ai-sdk-legacy"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 const (

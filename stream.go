@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // Sentinel errors for UIMessageStreamWriter.

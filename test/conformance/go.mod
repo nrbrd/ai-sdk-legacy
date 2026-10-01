@@ -1,25 +1,25 @@
-module github.com/grafana/ai-sdk/test/conformance
+module github.com/nrbrd/ai-sdk-legacy/test/conformance
 
 go 1.26.3
 
 replace (
-	github.com/grafana/ai-sdk => ../../
-	github.com/grafana/ai-sdk/providers/anthropic => ../../providers/anthropic
-	github.com/grafana/ai-sdk/providers/bedrock => ../../providers/bedrock
-	github.com/grafana/ai-sdk/providers/grafana => ../../providers/grafana
-	github.com/grafana/ai-sdk/providers/openai => ../../providers/openai
-	github.com/grafana/ai-sdk/providers/openai-compatible => ../../providers/openai-compatible
+	github.com/nrbrd/ai-sdk-legacy => ../../
+	github.com/nrbrd/ai-sdk-legacy/providers/anthropic => ../../providers/anthropic
+	github.com/nrbrd/ai-sdk-legacy/providers/bedrock => ../../providers/bedrock
+	github.com/nrbrd/ai-sdk-legacy/providers/grafana => ../../providers/grafana
+	github.com/nrbrd/ai-sdk-legacy/providers/openai => ../../providers/openai
+	github.com/nrbrd/ai-sdk-legacy/providers/openai-compatible => ../../providers/openai-compatible
 )
 
 require (
 	github.com/anthropics/anthropic-sdk-go v1.61.0
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.32
-	github.com/grafana/ai-sdk v0.1.0-alpha.1
-	github.com/grafana/ai-sdk/providers/anthropic v0.0.0-00010101000000-000000000000
-	github.com/grafana/ai-sdk/providers/bedrock v0.0.0-00010101000000-000000000000
-	github.com/grafana/ai-sdk/providers/grafana v0.0.0-00010101000000-000000000000
-	github.com/grafana/ai-sdk/providers/openai v0.0.0-00010101000000-000000000000
-	github.com/grafana/ai-sdk/providers/openai-compatible v0.0.0-00010101000000-000000000000
+	github.com/nrbrd/ai-sdk-legacy v0.0.0
+	github.com/nrbrd/ai-sdk-legacy/providers/anthropic v0.0.0
+	github.com/nrbrd/ai-sdk-legacy/providers/bedrock v0.0.0
+	github.com/nrbrd/ai-sdk-legacy/providers/grafana v0.0.0
+	github.com/nrbrd/ai-sdk-legacy/providers/openai v0.0.0
+	github.com/nrbrd/ai-sdk-legacy/providers/openai-compatible v0.0.0
 	github.com/openai/openai-go/v3 v3.48.0
 	github.com/stretchr/testify v1.11.1
 	gopkg.in/yaml.v3 v3.0.1

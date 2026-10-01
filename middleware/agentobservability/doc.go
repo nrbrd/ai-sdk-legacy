@@ -41,7 +41,7 @@
 // # Example
 //
 //	import (
-//		"github.com/grafana/ai-sdk/middleware/agentobservability"
+//		"github.com/nrbrd/ai-sdk-legacy/middleware/agentobservability"
 //		"github.com/grafana/agento11y/go/agento11y"
 //	)
 //

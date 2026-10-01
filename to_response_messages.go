@@ -3,7 +3,7 @@ package aisdk
 import (
 	"sort"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // ToResponseMessages converts collected response content parts into the

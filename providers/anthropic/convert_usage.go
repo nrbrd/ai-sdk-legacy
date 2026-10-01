@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/anthropics/anthropic-sdk-go"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 type anthropicIterationType string

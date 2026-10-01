@@ -1,10 +1,10 @@
-module github.com/grafana/ai-sdk/examples/agent-chat
+module github.com/nrbrd/ai-sdk-legacy/examples/agent-chat
 
 go 1.26.3
 
 require (
-	github.com/grafana/ai-sdk v0.1.0-alpha.1
-	github.com/grafana/ai-sdk/providers/anthropic v0.0.0
+	github.com/nrbrd/ai-sdk-legacy v0.0.0
+	github.com/nrbrd/ai-sdk-legacy/providers/anthropic v0.0.0
 	github.com/stretchr/testify v1.11.1
 )
 
@@ -53,6 +53,6 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/grafana/ai-sdk => ../../
+replace github.com/nrbrd/ai-sdk-legacy => ../../
 
-replace github.com/grafana/ai-sdk/providers/anthropic => ../../providers/anthropic
+replace github.com/nrbrd/ai-sdk-legacy/providers/anthropic => ../../providers/anthropic

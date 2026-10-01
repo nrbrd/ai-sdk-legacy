@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // providerOptionKeys lists the namespace keys we accept for Bedrock-specific

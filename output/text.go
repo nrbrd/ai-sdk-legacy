@@ -1,7 +1,7 @@
 package output
 
 import (
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // TextOutput implements aisdk.Output as a no-op pass-through for plain text.

@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	aimiddleware "github.com/grafana/ai-sdk/middleware"
-	"github.com/grafana/ai-sdk/provider"
-	"github.com/grafana/ai-sdk/registry"
+	aimiddleware "github.com/nrbrd/ai-sdk-legacy/middleware"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	"github.com/nrbrd/ai-sdk-legacy/registry"
 	promclient "github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/testutil"
 	dto "github.com/prometheus/client_model/go"

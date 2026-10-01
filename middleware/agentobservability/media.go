@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/grafana/agento11y/go/agento11y"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 func contentFilePartToAgento11y(part provider.ContentPart, providerType string) (agento11y.Part, bool) {

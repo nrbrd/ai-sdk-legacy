@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 	openai "github.com/openai/openai-go/v3"
 	"github.com/openai/openai-go/v3/responses"
 )

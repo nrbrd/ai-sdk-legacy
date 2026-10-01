@@ -9,7 +9,7 @@ import (
 	"github.com/anthropics/anthropic-sdk-go/option"
 	"github.com/anthropics/anthropic-sdk-go/packages/ssestream"
 	vertexsdk "github.com/anthropics/anthropic-sdk-go/vertex"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 const specVersion = "v4"

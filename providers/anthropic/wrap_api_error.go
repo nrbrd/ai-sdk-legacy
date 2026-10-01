@@ -7,7 +7,7 @@ import (
 
 	sdk "github.com/anthropics/anthropic-sdk-go"
 	"github.com/anthropics/anthropic-sdk-go/shared"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // wrapAPIError wraps an anthropic SDK API error into a *provider.APICallError.

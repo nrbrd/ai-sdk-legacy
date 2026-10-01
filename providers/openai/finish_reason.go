@@ -1,6 +1,6 @@
 package openai
 
-import "github.com/grafana/ai-sdk/provider"
+import "github.com/nrbrd/ai-sdk-legacy/provider"
 
 // mapFinishReason maps an OpenAI incomplete reason and the presence of a
 // function call to a unified finish reason, mirroring upstream semantics.

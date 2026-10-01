@@ -3,7 +3,7 @@ package aisdk
 import (
 	"encoding/json"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // Role is an alias for provider.Role, used on UIMessage.

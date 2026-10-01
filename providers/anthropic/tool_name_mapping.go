@@ -1,6 +1,6 @@
 package anthropic
 
-import "github.com/grafana/ai-sdk/provider"
+import "github.com/nrbrd/ai-sdk-legacy/provider"
 
 var providerToolNames = map[string]string{
 	"anthropic.web_search_20250305":        "web_search",

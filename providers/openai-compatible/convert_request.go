@@ -7,8 +7,8 @@ import (
 	"mime"
 	"strings"
 
-	"github.com/grafana/ai-sdk/internal/mediatype"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/internal/mediatype"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 func (m *model) buildRequest(opts provider.CallOptions, streaming bool) (map[string]any, []provider.Warning, error) {

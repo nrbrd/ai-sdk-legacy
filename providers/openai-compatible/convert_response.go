@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 func parseGenerateResponse(body []byte, headers http.Header, providerName, metadataKey string, generateID func() string) (*provider.GenerateResult, error) {

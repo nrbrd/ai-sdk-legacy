@@ -8,7 +8,7 @@ import (
 	asdk "github.com/anthropics/anthropic-sdk-go"
 	agento11yanthropic "github.com/grafana/agento11y/go-providers/anthropic"
 	"github.com/grafana/agento11y/go/agento11y"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

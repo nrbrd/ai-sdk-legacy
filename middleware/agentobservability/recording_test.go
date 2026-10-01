@@ -9,8 +9,8 @@ import (
 
 	"github.com/grafana/agento11y/go/agento11y"
 	"github.com/grafana/agento11y/go/agento11y/testkit"
-	"github.com/grafana/ai-sdk/middleware"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/middleware"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"go.opentelemetry.io/otel"

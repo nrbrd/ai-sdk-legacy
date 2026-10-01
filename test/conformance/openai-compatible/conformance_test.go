@@ -5,9 +5,9 @@ package openaicompatible_test
 import (
 	"testing"
 
-	"github.com/grafana/ai-sdk/provider"
-	openaicompatible "github.com/grafana/ai-sdk/providers/openai-compatible"
-	"github.com/grafana/ai-sdk/test/conformance"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	openaicompatible "github.com/nrbrd/ai-sdk-legacy/providers/openai-compatible"
+	"github.com/nrbrd/ai-sdk-legacy/test/conformance"
 )
 
 func TestConformance(t *testing.T) {

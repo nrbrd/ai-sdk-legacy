@@ -3,7 +3,7 @@ package middleware
 import (
 	"context"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // DefaultInstructions returns a Middleware that prepends the provided system

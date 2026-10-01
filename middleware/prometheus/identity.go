@@ -1,6 +1,6 @@
 package prometheus
 
-import "github.com/grafana/ai-sdk/provider"
+import "github.com/nrbrd/ai-sdk-legacy/provider"
 
 type identity struct {
 	provider string

@@ -11,10 +11,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/grafana/ai-sdk/gateway/catalog"
-	"github.com/grafana/ai-sdk/gateway/providerwire"
-	"github.com/grafana/ai-sdk/provider"
-	grafana "github.com/grafana/ai-sdk/providers/grafana"
+	"github.com/nrbrd/ai-sdk-legacy/gateway/catalog"
+	"github.com/nrbrd/ai-sdk-legacy/gateway/providerwire"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	grafana "github.com/nrbrd/ai-sdk-legacy/providers/grafana"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

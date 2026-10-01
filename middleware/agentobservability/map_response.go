@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 
 	"github.com/grafana/agento11y/go/agento11y"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // Stop-reason strings produced by finishReasonToAgento11yStop. These match the

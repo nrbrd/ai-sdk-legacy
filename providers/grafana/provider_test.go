@@ -15,12 +15,12 @@ import (
 	"testing"
 	"time"
 
-	aisdk "github.com/grafana/ai-sdk"
-	"github.com/grafana/ai-sdk/gateway/providerwire"
-	"github.com/grafana/ai-sdk/middleware"
-	"github.com/grafana/ai-sdk/provider"
-	"github.com/grafana/ai-sdk/registry"
 	"github.com/grafana/authlib/authn"
+	aisdk "github.com/nrbrd/ai-sdk-legacy"
+	"github.com/nrbrd/ai-sdk-legacy/gateway/providerwire"
+	"github.com/nrbrd/ai-sdk-legacy/middleware"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	"github.com/nrbrd/ai-sdk-legacy/registry"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

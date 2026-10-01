@@ -7,7 +7,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // streamBufferSize matches the Anthropic provider's channel buffer size so

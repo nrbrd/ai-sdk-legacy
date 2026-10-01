@@ -13,11 +13,11 @@ import (
 	"testing"
 
 	"github.com/anthropics/anthropic-sdk-go/option"
-	"github.com/grafana/ai-sdk/gateway/providerwire"
-	"github.com/grafana/ai-sdk/provider"
-	anthropicProvider "github.com/grafana/ai-sdk/providers/anthropic"
-	grafanaProvider "github.com/grafana/ai-sdk/providers/grafana"
-	"github.com/grafana/ai-sdk/test/conformance"
+	"github.com/nrbrd/ai-sdk-legacy/gateway/providerwire"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	anthropicProvider "github.com/nrbrd/ai-sdk-legacy/providers/anthropic"
+	grafanaProvider "github.com/nrbrd/ai-sdk-legacy/providers/grafana"
+	"github.com/nrbrd/ai-sdk-legacy/test/conformance"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

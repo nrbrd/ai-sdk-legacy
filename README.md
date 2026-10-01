@@ -1,3 +1,14 @@
+# Legacy AI SDK
+
+Frozen from `grafana/ai-sdk@bc004f46917f`, the commit immediately before the
+legacy provider-wire removal in PR #94. This fork changes the module namespace
+to `github.com/nrbrd/ai-sdk-legacy` and updates module wiring so it can coexist
+with the current SDK. No runtime behavior changes are intended.
+
+Use an exact pseudo-version from branch `nrbrd/freeze-assistant-sdk`, not
+`@main` or `@latest`. The original documentation below is historical reference;
+its `github.com/grafana/ai-sdk` examples refer to the upstream SDK.
+
 <div align="center">
 
 <img src="docs/assets/ai-sdk-banner.gif" alt="Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react" width="960" />

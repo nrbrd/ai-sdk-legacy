@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/anthropics/anthropic-sdk-go"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 func convertResponse(msg *anthropic.BetaMessage, mapping toolNameMapping, usesJsonResponseTool bool, citDocs []citationDocument, generateID func() string, providerName string, markCodeExecutionDynamic bool) (*provider.GenerateResult, error) {

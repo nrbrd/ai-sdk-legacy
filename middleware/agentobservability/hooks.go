@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	"github.com/grafana/agento11y/go/agento11y"
-	"github.com/grafana/ai-sdk/middleware"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/middleware"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/codes"

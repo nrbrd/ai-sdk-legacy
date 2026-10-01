@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // WriteSSEStreamPart writes a single [provider.StreamPart] to w as one SSE

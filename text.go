@@ -3,7 +3,7 @@ package aisdk
 import (
 	"encoding/json"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // SystemModelMessage represents a segment of the system prompt.

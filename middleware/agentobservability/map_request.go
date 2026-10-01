@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/grafana/agento11y/go/agento11y"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // systemPromptSeparator is the string the upstream agento11y Anthropic helper

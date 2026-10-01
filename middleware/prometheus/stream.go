@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/grafana/ai-sdk/internal/streamusage"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/internal/streamusage"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 const streamBufferSize = 64

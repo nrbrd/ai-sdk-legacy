@@ -14,9 +14,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/grafana/ai-sdk/gateway/providerwire"
-	"github.com/grafana/ai-sdk/provider"
 	"github.com/grafana/authlib/authn"
+	"github.com/nrbrd/ai-sdk-legacy/gateway/providerwire"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 const (

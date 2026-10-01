@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	awsconfig "github.com/aws/aws-sdk-go-v2/config"
-	"github.com/grafana/ai-sdk/provider"
-	openaiprovider "github.com/grafana/ai-sdk/providers/openai"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	openaiprovider "github.com/nrbrd/ai-sdk-legacy/providers/openai"
 	openaibedrock "github.com/openai/openai-go/v3/bedrock"
 	"github.com/openai/openai-go/v3/option"
 )

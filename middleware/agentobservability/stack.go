@@ -1,8 +1,8 @@
 package agentobservability
 
 import (
-	"github.com/grafana/ai-sdk/middleware"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/middleware"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // Stack returns the canonical Agent Observability middleware ordering for the given

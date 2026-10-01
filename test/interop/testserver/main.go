@@ -31,8 +31,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/grafana/ai-sdk/gateway/providerwire"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/gateway/providerwire"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 const mountPrefix = "/api/v1/aisdk"

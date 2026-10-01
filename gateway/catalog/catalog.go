@@ -3,7 +3,7 @@ package catalog
 import (
 	"context"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // ModelResolver resolves public gateway model IDs.

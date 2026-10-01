@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // parseResponse decodes a non-streaming Converse response body into a

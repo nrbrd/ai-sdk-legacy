@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/grafana/ai-sdk/provider"
-	"github.com/grafana/ai-sdk/schema"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	"github.com/nrbrd/ai-sdk-legacy/schema"
 )
 
 // ToolExecuteFunc is the signature for a tool's execution function.

@@ -1,7 +1,7 @@
-module github.com/grafana/ai-sdk/test/interop/testserver
+module github.com/nrbrd/ai-sdk-legacy/test/interop/testserver
 
 go 1.26.3
 
-replace github.com/grafana/ai-sdk => ../../..
+replace github.com/nrbrd/ai-sdk-legacy => ../../..
 
-require github.com/grafana/ai-sdk v0.0.0
+require github.com/nrbrd/ai-sdk-legacy v0.0.0

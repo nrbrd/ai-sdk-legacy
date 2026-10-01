@@ -3,7 +3,7 @@ package anthropic
 import (
 	"testing"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 	"github.com/stretchr/testify/assert"
 )
 

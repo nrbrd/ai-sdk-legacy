@@ -10,10 +10,10 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/grafana/ai-sdk"
-	"github.com/grafana/ai-sdk/output"
-	"github.com/grafana/ai-sdk/provider"
-	"github.com/grafana/ai-sdk/schema"
+	"github.com/nrbrd/ai-sdk-legacy"
+	"github.com/nrbrd/ai-sdk-legacy/output"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	"github.com/nrbrd/ai-sdk-legacy/schema"
 	"github.com/stretchr/testify/require"
 )
 

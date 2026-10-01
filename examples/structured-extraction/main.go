@@ -7,11 +7,11 @@ import (
 	"log"
 	"os"
 
-	aisdk "github.com/grafana/ai-sdk"
-	"github.com/grafana/ai-sdk/output"
-	"github.com/grafana/ai-sdk/provider"
-	"github.com/grafana/ai-sdk/providers/anthropic"
-	"github.com/grafana/ai-sdk/schema"
+	aisdk "github.com/nrbrd/ai-sdk-legacy"
+	"github.com/nrbrd/ai-sdk-legacy/output"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	"github.com/nrbrd/ai-sdk-legacy/providers/anthropic"
+	"github.com/nrbrd/ai-sdk-legacy/schema"
 )
 
 // AlertTriage is the validated application value produced from an alert.

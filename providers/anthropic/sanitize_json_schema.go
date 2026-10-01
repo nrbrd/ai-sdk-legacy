@@ -1,6 +1,6 @@
 package anthropic
 
-import "github.com/grafana/ai-sdk/internal/anthropicschema"
+import "github.com/nrbrd/ai-sdk-legacy/internal/anthropicschema"
 
 func sanitizeJSONSchema(schema map[string]any) map[string]any {
 	return anthropicschema.Sanitize(schema)

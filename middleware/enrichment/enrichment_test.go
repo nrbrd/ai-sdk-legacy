@@ -9,9 +9,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/grafana/ai-sdk/middleware"
-	"github.com/grafana/ai-sdk/provider"
-	"github.com/grafana/ai-sdk/registry"
+	"github.com/nrbrd/ai-sdk-legacy/middleware"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	"github.com/nrbrd/ai-sdk-legacy/registry"
 )
 
 func TestPublicAPI_Smoke(t *testing.T) {

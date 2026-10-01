@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 func wrapAPIError(status int, endpoint string, requestBody []byte, headers http.Header, responseBody []byte) *provider.APICallError {

@@ -13,8 +13,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/grafana/ai-sdk/middleware"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/middleware"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // Middleware returns a language-model middleware that logs provider calls.

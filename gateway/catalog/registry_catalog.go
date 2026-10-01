@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/grafana/ai-sdk/registry"
+	"github.com/nrbrd/ai-sdk-legacy/registry"
 )
 
 type registryCatalog struct {

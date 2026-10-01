@@ -3,7 +3,7 @@ package bedrock
 import (
 	"testing"
 
-	"github.com/grafana/ai-sdk/registry"
+	"github.com/nrbrd/ai-sdk-legacy/registry"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

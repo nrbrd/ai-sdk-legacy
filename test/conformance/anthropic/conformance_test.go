@@ -6,9 +6,9 @@ import (
 	"testing"
 
 	"github.com/anthropics/anthropic-sdk-go/option"
-	"github.com/grafana/ai-sdk/provider"
-	anthropicProvider "github.com/grafana/ai-sdk/providers/anthropic"
-	"github.com/grafana/ai-sdk/test/conformance"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	anthropicProvider "github.com/nrbrd/ai-sdk-legacy/providers/anthropic"
+	"github.com/nrbrd/ai-sdk-legacy/test/conformance"
 )
 
 func TestConformance(t *testing.T) {

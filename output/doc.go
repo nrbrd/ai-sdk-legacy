@@ -14,7 +14,7 @@
 // and the convenience wrappers GenerateObject and StreamObject for type-safe
 // end-to-end usage.
 //
-// Schema generation and validation are provided by the [github.com/grafana/ai-sdk/schema]
+// Schema generation and validation are provided by the [github.com/nrbrd/ai-sdk-legacy/schema]
 // package. Use [schema.SchemaFor] to generate schemas from Go types and
 // [schema.SchemaFromJSON] to create schemas from raw JSON bytes.
 package output

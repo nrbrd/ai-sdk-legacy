@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 func TestMiddleware_StreamSuccessTeesUnmodifiedParts(t *testing.T) {

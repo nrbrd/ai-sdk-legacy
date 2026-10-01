@@ -3,7 +3,7 @@ package grafana
 import (
 	"fmt"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 var _ provider.ProviderOption = GrafanaOptions{}

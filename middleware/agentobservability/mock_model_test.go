@@ -4,7 +4,7 @@ import (
 	"context"
 	"regexp"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // mockLanguageModel is a hand-written test double for provider.LanguageModel

@@ -9,9 +9,9 @@ import (
 	"os"
 	"time"
 
-	aisdk "github.com/grafana/ai-sdk"
-	"github.com/grafana/ai-sdk/provider"
-	"github.com/grafana/ai-sdk/providers/anthropic"
+	aisdk "github.com/nrbrd/ai-sdk-legacy"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	"github.com/nrbrd/ai-sdk-legacy/providers/anthropic"
 )
 
 type weatherInput struct {

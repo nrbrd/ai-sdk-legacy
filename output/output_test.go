@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"testing"
 
-	aisdk "github.com/grafana/ai-sdk"
-	"github.com/grafana/ai-sdk/provider"
-	"github.com/grafana/ai-sdk/schema"
+	aisdk "github.com/nrbrd/ai-sdk-legacy"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	"github.com/nrbrd/ai-sdk-legacy/schema"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

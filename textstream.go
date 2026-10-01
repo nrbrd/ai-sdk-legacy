@@ -3,7 +3,7 @@ package aisdk
 import (
 	"encoding/json"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // TextStreamPart is the interface for all orchestration-level stream events.

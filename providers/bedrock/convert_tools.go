@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 const (

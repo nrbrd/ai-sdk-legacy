@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // ToolInputExampleFormatter formats a tool input example for a description.

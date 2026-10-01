@@ -1,6 +1,6 @@
 package openai
 
-import "github.com/grafana/ai-sdk/provider"
+import "github.com/nrbrd/ai-sdk-legacy/provider"
 
 var providerToolNames = map[string]string{
 	toolIDCodeInterpreter:  "code_interpreter",

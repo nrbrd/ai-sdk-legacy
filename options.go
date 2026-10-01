@@ -3,7 +3,7 @@ package aisdk
 import (
 	"time"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // TimeoutConfig configures timeout levels for StreamText and GenerateText.

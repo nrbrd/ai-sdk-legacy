@@ -6,7 +6,7 @@ import (
 	"fmt"
 
 	"github.com/anthropics/anthropic-sdk-go/option"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // Option configures an Anthropic model instance.

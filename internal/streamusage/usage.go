@@ -4,7 +4,7 @@ package streamusage
 import (
 	"encoding/json"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // Aggregator preserves the greatest observed value for each normalized token

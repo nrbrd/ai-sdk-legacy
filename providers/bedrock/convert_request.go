@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/grafana/ai-sdk/internal/anthropicschema"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/internal/anthropicschema"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // requestMeta carries flags built during request preparation that the

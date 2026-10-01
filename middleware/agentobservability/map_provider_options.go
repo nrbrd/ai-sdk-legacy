@@ -3,7 +3,7 @@ package agentobservability
 import (
 	"encoding/json"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // Metadata keys mirror the upstream agento11y Anthropic helper so existing

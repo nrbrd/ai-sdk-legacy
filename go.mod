@@ -1,4 +1,4 @@
-module github.com/grafana/ai-sdk
+module github.com/nrbrd/ai-sdk-legacy
 
 go 1.26.3
 

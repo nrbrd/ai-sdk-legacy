@@ -5,9 +5,9 @@ package openai_test
 import (
 	"testing"
 
-	"github.com/grafana/ai-sdk/provider"
-	openaiProvider "github.com/grafana/ai-sdk/providers/openai"
-	"github.com/grafana/ai-sdk/test/conformance"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	openaiProvider "github.com/nrbrd/ai-sdk-legacy/providers/openai"
+	"github.com/nrbrd/ai-sdk-legacy/test/conformance"
 	"github.com/openai/openai-go/v3/option"
 )
 

@@ -3,7 +3,7 @@
 //
 // It is a nested Go module under middleware/prometheus/ so the Prometheus
 // client dependency is only added for consumers who explicitly import this
-// package. The root github.com/grafana/ai-sdk module does not import this
+// package. The root github.com/nrbrd/ai-sdk-legacy module does not import this
 // package.
 //
 // # API

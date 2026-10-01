@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/grafana/agento11y/go/agento11y"
-	"github.com/grafana/ai-sdk/internal/streamusage"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/internal/streamusage"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // StreamRecorder accumulates an agento11y.Generation from a sequence of

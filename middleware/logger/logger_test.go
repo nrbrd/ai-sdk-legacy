@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/grafana/ai-sdk/middleware"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/middleware"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 func TestAPI_Surface(t *testing.T) {

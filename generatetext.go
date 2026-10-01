@@ -3,7 +3,7 @@ package aisdk
 import (
 	"context"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // GenerateTextResult holds the complete result of a non-streaming LLM call.

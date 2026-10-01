@@ -4,7 +4,7 @@ import (
 	"context"
 	"strconv"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // SimulateStreaming returns a Middleware that intercepts DoStream calls,

@@ -6,8 +6,8 @@ import (
 	"sync"
 
 	"github.com/grafana/agento11y/go/agento11y"
-	"github.com/grafana/ai-sdk/middleware"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/middleware"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // SpanNameHooksPreflight is the OTel span name HooksMiddleware emits for each
@@ -32,7 +32,7 @@ const streamRecordingBuffer = 64
 
 // tracerName is the instrumentation library name reported on every span this
 // middleware opens (currently only the hooks preflight span).
-const tracerName = "github.com/grafana/ai-sdk/middleware/agentobservability"
+const tracerName = "github.com/nrbrd/ai-sdk-legacy/middleware/agentobservability"
 
 // nilContextProviderLogger ensures the "ContextProvider is nil" warning is
 // emitted at most once per process for the entire middleware module, not

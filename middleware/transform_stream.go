@@ -3,7 +3,7 @@ package middleware
 import (
 	"context"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // TransformStream creates a new StreamResult with the stream channel

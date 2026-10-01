@@ -7,8 +7,8 @@ import (
 	"mime"
 	"strings"
 
-	"github.com/grafana/ai-sdk/internal/mediatype"
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/internal/mediatype"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 	"github.com/openai/openai-go/v3/packages/param"
 	"github.com/openai/openai-go/v3/responses"
 )

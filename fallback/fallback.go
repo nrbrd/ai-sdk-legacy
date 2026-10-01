@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // ErrNoCandidates is returned by New when no candidates are provided.

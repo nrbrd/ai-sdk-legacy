@@ -3,7 +3,7 @@ package aisdk
 import (
 	"errors"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // ErrNoObjectGenerated is returned when structured output validation fails.

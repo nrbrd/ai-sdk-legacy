@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 func buildAnthropicProviderMetadata(fields map[string]json.RawMessage, usageRaw json.RawMessage) (provider.ProviderMetadata, error) {

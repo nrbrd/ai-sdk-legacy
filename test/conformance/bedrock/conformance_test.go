@@ -8,9 +8,9 @@ import (
 	"testing"
 
 	"github.com/aws/aws-sdk-go-v2/credentials"
-	"github.com/grafana/ai-sdk/provider"
-	bedrockProvider "github.com/grafana/ai-sdk/providers/bedrock"
-	"github.com/grafana/ai-sdk/test/conformance"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	bedrockProvider "github.com/nrbrd/ai-sdk-legacy/providers/bedrock"
+	"github.com/nrbrd/ai-sdk-legacy/test/conformance"
 )
 
 // TestConformance discovers Bedrock fixtures under upstream/ and recorded/

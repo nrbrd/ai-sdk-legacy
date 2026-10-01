@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/grafana/ai-sdk/schema"
+	"github.com/nrbrd/ai-sdk-legacy/schema"
 )
 
 func TestFingerprintTools(t *testing.T) {

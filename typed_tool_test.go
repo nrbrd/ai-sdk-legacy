@@ -7,8 +7,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/grafana/ai-sdk/provider"
-	"github.com/grafana/ai-sdk/schema"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	"github.com/nrbrd/ai-sdk-legacy/schema"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

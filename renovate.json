@@ -1,5 +1,6 @@
 {
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "enabled": false,
     "extends": [
       "config:best-practices",
       ":disableDependencyDashboard",
@@ -26,7 +27,7 @@
       {
         "description": "Ignore self-referential dependency (replace directive makes the version cosmetic)",
         "matchManagers": ["gomod"],
-        "matchPackageNames": ["github.com/grafana/ai-sdk"],
+        "matchPackageNames": ["github.com/nrbrd/ai-sdk-legacy"],
         "enabled": false
       },
       {

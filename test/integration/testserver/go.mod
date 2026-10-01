@@ -1,11 +1,11 @@
-module github.com/grafana/ai-sdk/test/integration/testserver
+module github.com/nrbrd/ai-sdk-legacy/test/integration/testserver
 
 go 1.26.3
 
-replace github.com/grafana/ai-sdk => ../../..
+replace github.com/nrbrd/ai-sdk-legacy => ../../..
 
 require (
-	github.com/grafana/ai-sdk v0.0.0-20260320122551-9e7a001c6e8b
+	github.com/nrbrd/ai-sdk-legacy v0.0.0
 	github.com/stretchr/testify v1.11.1
 )
 

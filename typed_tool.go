@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/grafana/ai-sdk/provider"
-	"github.com/grafana/ai-sdk/schema"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
+	"github.com/nrbrd/ai-sdk-legacy/schema"
 )
 
 // TypedToolDef defines a tool using Go types instead of raw JSON.

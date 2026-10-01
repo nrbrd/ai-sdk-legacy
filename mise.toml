@@ -141,7 +141,7 @@ export GOWORK=off
 for go_mod in $(git ls-files 'go.mod' '*/go.mod' | sort); do
   module_path=$(go mod edit -json "$go_mod" | jq -r '.Module.Path')
   case "$module_path" in
-    github.com/grafana/ai-sdk/examples/*|github.com/grafana/ai-sdk/test/*)
+    github.com/nrbrd/ai-sdk-legacy/examples/*|github.com/nrbrd/ai-sdk-legacy/test/*)
       continue
       ;;
   esac

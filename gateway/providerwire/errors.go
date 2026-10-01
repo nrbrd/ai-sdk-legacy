@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"slices"
 
-	"github.com/grafana/ai-sdk/provider"
+	"github.com/nrbrd/ai-sdk-legacy/provider"
 )
 
 // EncodeAPICallError serializes an [provider.APICallError] into the upstream
